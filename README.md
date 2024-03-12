@@ -1,10 +1,8 @@
 # Working directory
 
-You can find the environment in WSL (VS code) 
+####You can find the environment in WSL (VS code) 
 
-Continue point: line 38
-
-1. 
+#####Continue point: line 38
 
 ## Information
 
